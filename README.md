@@ -11,9 +11,16 @@ Four challenges that ask you to build a component with particular requirements.
 **Challenge 4** - Expandable Details
 
 
+## Install
+
+After cloning the repository, install all the libraries by running:
+
+`npm install`
+
+
 ## Testing
 
-You can test if you've correctly completed the challenge by running:
+You can test if you've correctly completed a challenge by running:
 
 `npm run test`
 
